@@ -3,7 +3,7 @@
 ## Arithmetic Mean
 
 - Definition: The sum of all values divided by the number of values.
-- Formula: $ \text{Arithmetic Mean} = \frac{\sum_{i=1}^{n} x_i}{n} $
+- Formula: $\text{Arithmetic Mean} = \frac{\sum_{i=1}^{n} x_i}{n}$
 - Characteristics: Sensitive to extreme values (outliers), commonly used in statistics.
 - Use Cases: General data analysis, average calculations in various fields.
 - Example: Average test scores of students in a class.
