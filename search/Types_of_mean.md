@@ -13,7 +13,7 @@
 ## Geometric Mean
 
 - Definition: The nth root of the product of n values.
-- Formula: $ \text{Geometric Mean} = \left( \prod_{i=1}^{n} x_i \right)^{\frac{1}{n}} $
+- Formula: $\text{Geometric Mean} = \left( \prod_{i=1}^{n} x_i \right)^{\frac{1}{n}}$
 - Characteristics: Less sensitive to extreme values, useful for multiplicative processes.
 - Use Cases: Financial returns, growth rates, and ratios.
 - Example: Average growth rate of an investment over multiple periods.
@@ -23,7 +23,7 @@
 ## Harmonic Mean
 
 - Definition: The reciprocal of the arithmetic mean of the reciprocals of the values.
-- Formula: $ \text{Harmonic Mean} = \frac{n}{\sum_{i=1}^{n} \frac{1}{x_i}} $
+- Formula: $\text{Harmonic Mean} = \frac{n}{\sum_{i=1}^{n} \frac{1}{x_i}}$
 - Characteristics: Useful for rates and ratios, less affected by large values.
 - Use Cases: Average speed, rates, and ratios.
 - Example: Average speed of a vehicle traveling different distances at different speeds.
@@ -33,7 +33,7 @@
 ## Quadratic Mean (Root Mean Square)
 
 - Definition: The square root of the average of the squares of the values.
-- Formula: $ \text{Quadratic Mean} = \sqrt{\frac{\sum_{i=1}^{n} x_i^2}{n}} $
+- Formula: $\text{Quadratic Mean} = \sqrt{\frac{\sum_{i=1}^{n} x_i^2}{n}}$
 - Characteristics: Sensitive to large values, useful in physics and engineering.
 - Use Cases: Measuring deviations, signal processing, and error analysis.
 - Example: Measuring the root mean square of a set of voltage values.
